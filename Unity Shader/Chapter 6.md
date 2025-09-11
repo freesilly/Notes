@@ -24,3 +24,22 @@ $c_{diffuse}=(c_{light}*m_{diffuse})max(0,n*I)$
 
 $c_{spscular}=(c_{light}*m_{specular})max(0,v*r)^{m_{gloss}}$
 
+
+### 6.3 半兰伯特模型
+
+$c_{diffuse}=(c_{light}*m_{diffuse})(\alpha(n*I)+\beta)$
+
+大多数情况下$\alpha$和$\beta$都为0.5
+
+
+### 6.4 Blinn-Phong光照模型
+
+binn-phong模型引入了一个新的矢量$\hat{h}$
+
+$\hat{h}=\dfrac{\hat{v}+\hat{I}}{|\hat{v}+\hat{I}|}$
+
+Blinn 的高光反射公式：
+
+$c_{specular}=(c_{light}*m_{specular})max(0,\hat{n}*\hat{h})^{m_{gloss}}$
+
+
