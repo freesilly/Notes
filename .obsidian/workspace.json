@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity Shader/Chapter 8.md",
+                "file": "Unity Shader/Chapter 9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 8"
+              "title": "Chapter 9"
             }
           }
         ]
@@ -182,14 +182,16 @@
   },
   "active": "06ef88bab773dba1",
   "lastOpenFiles": [
+    "Pasted image 20250915195813.png",
+    "Unity Shader/Chapter 8.md",
+    "Unity Shader/Chapter 9.md",
+    "Unity 开发/C sharp中实现回调的几种方式.md",
     "Pasted image 20250914221049.png",
     "Pasted image 20250914220549.png",
     "Pasted image 20250914211838.png",
     "Unity Shader/Chapter 7.md",
-    "Unity Shader/Chapter 8.md",
     "Unity Shader/Chapter 6.md",
     "Unity Shader/Chapter 5.md",
-    "Unity 开发/C sharp中实现回调的几种方式.md",
     "Unity 开发",
     "Pasted image 20250904151804.png",
     "新建 文本文档.txt",
